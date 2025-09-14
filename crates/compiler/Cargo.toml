@@ -1,0 +1,14 @@
+[package]
+name = "portal-solutions-careful-swc-compiler"
+version = "0.1.0"
+edition = "2024"
+license.workspace = true
+description.workspace = true
+
+[dependencies]
+swc_atoms.workspace = true
+swc_common.workspace = true
+swc_ecma_ast.workspace = true
+swc_ecma_parser.workspace = true
+swc_ecma_utils.workspace = true
+swc_ecma_visit.workspace = true
