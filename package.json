@@ -1,0 +1,10 @@
+{
+  "name": "@portal-solutions/careful-swc",
+  "workspaces": [],
+  "description": "More careful versions of existing SWC passses",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "typescript": "^5.9.2",
+    "zshy": "^0.4.1"
+  }
+}
